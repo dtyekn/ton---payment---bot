@@ -1,3 +1,3 @@
-BOT_TOKEN = "توكن_بوت_التلجرام_الخاص_بك"  
-TON_WALLET_ADDRESS = "عنوان_محفظة_TON_الخاصة_بك"  
-API_KEY = "مفتاح_API_لخدمة_TON_مثل_tonapi_أو_toncenter"  
+BOT_TOKEN = "8162259432:AAGREuHR8guArl3Ui8Ijn5CgLeclxkMkbZE"  
+TON_WALLET_ADDRESS = "UQAEKS9SJGJF0qHNxRFsy3GQHxK4lRO8iERPYJ2jxeaqZGoV"  
+API_KEY = ""  
